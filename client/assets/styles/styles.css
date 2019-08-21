@@ -26,6 +26,11 @@
   width: 80%;
 }
 
+#ButtonDiv {
+  margin: 10px;
+  height: 35px;
+}
+
 button {
   background-color: #4caf50; /* Green */
   border: none;
@@ -57,7 +62,7 @@ input {
 
 ul {
   position: relative;
-  margin-top: 2em;
+  padding-top: 1px;
 }
 
 li {
